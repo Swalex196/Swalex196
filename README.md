@@ -1,4 +1,4 @@
-![MasterHead](https://instagram.fsaw3-1.fna.fbcdn.net/v/t51.2885-19/468908146_1423070288653365_6184434409741039883_n.jpg?_nc_ht=instagram.fsaw3-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HwGI9BxwH_QQ7kNvgH-Y6Dj&_nc_gid=d49d01b1928c4b8a999067b4d96783ea&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYDy9OYK5un4HWfgk5XrP6C8PeYTW_5gTlOmCHjgFkV80w&oe=67674C34&_nc_sid=7a9f4b)
+![MasterHead](https://yusufakilli.netlify.app/yusuf.jpg)
 
 <h1 align="center">Hi 👋, I'm yusuf</h1>
 <h3 align="center">A passionate full stack developer from turkey</h3>
