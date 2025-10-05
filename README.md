@@ -1,4 +1,5 @@
-https://i.pinimg.com/736x/bf/ec/ad/bfecad2cc4b530087b29fbfc5897c01c.jpg
+<img width="894" height="502" alt="image" src="https://github.com/user-attachments/assets/3718abb3-0e1c-45dc-bede-6ada9537cf8a" />
+
 <h1 align="center">Hi 👋, I'm Swalex196</h1>
 <h3 align="center">A passionate fullstack developer from turkey</h3>
 
